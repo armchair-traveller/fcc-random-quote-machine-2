@@ -1,4 +1,4 @@
-This is the random quote machine.
+This is the random quote machine project built with React, Next.js, and TailwindCSS.
 
 OK. Something has to be done about the random logic. But it's alright for now.
 
